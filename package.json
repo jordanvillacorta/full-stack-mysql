@@ -4,7 +4,8 @@
   "description": "full stack review practice repo with mysql database",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "react-dev": "webpack -w"
   },
   "repository": {
     "type": "git",
