@@ -1,2 +1,2 @@
-# fsr-mysql
-full stack review practice repo with mysql database
+# full stack
+full stack template practice repo with mysql database
