@@ -1,2 +1,2 @@
 # full stack
-full stack template practice repo with mysql database
+full stack practice repo template with mysql database
